@@ -833,7 +833,7 @@ video {
   font-weight: 700;
 }
 
-@media (min-width: 525px) {
+@media (min-width: 300px) {
   .heading {
     text-align: left;
     font-size: 40px;
@@ -914,7 +914,7 @@ video {
   color: rgb(112 112 112 / var(--tw-text-opacity));
 }
 
-@media (min-width: 525px) {
+@media (min-width: 300px) {
   .paragraph__Text {
     font-size: 12px;
   }
@@ -974,7 +974,7 @@ video {
   border-style: none;
 }
 
-@media (min-width: 525px) {
+@media (min-width: 300px) {
   .sm\:relative {
     position: relative;
   }
